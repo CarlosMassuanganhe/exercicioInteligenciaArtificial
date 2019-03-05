@@ -93,6 +93,22 @@ Agente único                     sim
 
 
 
+Assistente matemático para prova de teoremas
+-
+
+Completamente observável
+Determinístico
+Estático
+Discreto
+Agente único
+
+
+sim
+
+nao
+nao
+sim
+
 
 
 
