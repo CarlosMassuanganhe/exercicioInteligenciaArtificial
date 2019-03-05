@@ -74,11 +74,11 @@ Sensores:
 
 Robô jogador de futebol
 -
-Completamente observável	    Sim
+Completamente observável	        Sim
 Determinístico	
-Estático	                    sim
-Discreto	                    nao
-Agente único	                sim
+Estático	                        sim
+Discreto	                        nao
+Agente único	                    sim
 
 
 
@@ -96,18 +96,14 @@ Agente único                     sim
 Assistente matemático para prova de teoremas
 -
 
-Completamente observável
+Completamente observável          Sim
 Determinístico
-Estático
-Discreto
-Agente único
+Estático                          nao
+Discreto                          nao
+Agente único                      sim
 
 
-sim
 
-nao
-nao
-sim
 
 
 
