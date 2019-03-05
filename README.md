@@ -1,7 +1,7 @@
 # exercicio Inteligencia Artificial
 
 
-1. Robo jogador de futebol
+- 1. Robo jogador de futebol
 
 Medida de desempenho:
 -reconhecer jogador da equipa;
@@ -29,7 +29,7 @@ Sensores:
 -reconhhecimento;
 -microfone;
 
-2. Agente para uma livraria online
+- 2. Agente para uma livraria online
 
 Medida de desempenho
 -fazer bibliografia dos livros;
@@ -44,11 +44,11 @@ Atuadores
 -exibir os livros na tela;
 
 
-Sensores
-- tela do agente;
+Sensores:
+-tela do agente;
 
 
-3. Assistente matematico para provas de teoremas
+- 3. Assistente matematico para provas de teoremas
 
 
 
@@ -69,12 +69,12 @@ Sensores:
 -camera;
 -respostas dos testes;
 -microfone;
--tela do agente.
+-tela do agente;
 
 
 Robô jogador de futebol
 -
-Completamente observável	        Sim
+Completamente observável	        sim
 Determinístico	
 Estático	                        sim
 Discreto	                        nao
@@ -96,7 +96,7 @@ Agente único                     sim
 Assistente matemático para prova de teoremas
 -
 
-Completamente observável          Sim
+Completamente observável          sim
 Determinístico
 Estático                          nao
 Discreto                          nao
