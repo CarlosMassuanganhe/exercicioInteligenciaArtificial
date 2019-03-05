@@ -74,33 +74,33 @@ Sensores:
 
 Robô jogador de futebol
 -
-Completamente observável	        sim
-Determinístico	
-Estático	                        sim
-Discreto	                        nao
-Agente único	                    sim
+Completamente observável	        sim;
+Determinístico	                     ;
+Estático	                        sim;
+Discreto	                        nao;
+Agente único	                    sim;
 
 
 
 Agente para uma livraria online
 -
 
-Completamente observável         nao
+Completamente observável         nao;
 Determinístico
-Estático                         nao
-Discreto                         sim
-Agente único                     sim
+Estático                         nao;
+Discreto                         sim;
+Agente único                     sim;
 
 
 
 Assistente matemático para prova de teoremas
 -
 
-Completamente observável          sim
+Completamente observável          sim;
 Determinístico
-Estático                          nao
-Discreto                          nao
-Agente único                      sim
+Estático                          nao;
+Discreto                          nao;
+Agente único                      sim;
 
 
 
