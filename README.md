@@ -49,11 +49,11 @@ Sensores
 
 
 3. Assistente matematico para provas de teoremas
- 
-Medidas de desempenho:
--
 
 
+
+medida de desempenho
+-;
 
 Ambiente:
 -alunos;
