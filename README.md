@@ -72,4 +72,27 @@ Sensores:
 -tela do agente.
 
 
+Robô jogador de futebol
+-
+Completamente observável	    Sim
+Determinístico	
+Estático	                    sim
+Discreto	                    nao
+Agente único	                sim
+
+
+
+Agente para uma livraria online
+-
+
+Completamente observável         nao
+Determinístico
+Estático                         nao
+Discreto                         sim
+Agente único                     sim
+
+
+
+
+
 
